@@ -1,0 +1,6 @@
+/Users/ramyakailashnathan/Projects/Regex_Search/bin/Debug/Regex_Search.exe
+/Users/ramyakailashnathan/Projects/Regex_Search/bin/Debug/Regex_Search.pdb
+/Users/ramyakailashnathan/Projects/Regex_Search/obj/Debug/Regex_Search.csproj.AssemblyReference.cache
+/Users/ramyakailashnathan/Projects/Regex_Search/obj/Debug/Regex_Search.csproj.CoreCompileInputs.cache
+/Users/ramyakailashnathan/Projects/Regex_Search/obj/Debug/Regex_Search.exe
+/Users/ramyakailashnathan/Projects/Regex_Search/obj/Debug/Regex_Search.pdb
