@@ -182,7 +182,7 @@ namespace Regex_Search
             }
             else
             {
-                Console.WriteLine("This is a definately NOT a valid date.");
+                Console.WriteLine("This is a definately not a valid date.");
             }
         }
 
